@@ -4,12 +4,9 @@
 
 - **Who i am ?**
 > I'm **Ossan** and i'm 17. <br>
-
->My profile picture: Seraphina, Unordinary <br>
-
->I'm novice in programming. I've begun this year with some frineds because we wanted to create our own visual novel. <br>
-
->Then, i've learned **python** and **ren'py** now i'm learning **Kotlin**, **Ruby** and **C**.
+  My profile picture: Seraphina, Unordinary <br>
+  I'm novice in programming. I've begun this year with some frineds because we wanted to create our own visual novel. <br>
+  Then, i've learned **python** and **ren'py** now i'm learning **Kotlin**, **Ruby** and **C**.
 
 - **My hobbies**
 
