@@ -7,8 +7,16 @@
   My profile picture: Seraphina, Unordinary <br>
   I'm novice in programming. I've begun this year with some frineds because we wanted to create our own visual novel. <br>
   Then, i've learned **python** and **ren'py** now i'm learning **Kotlin**, **Ruby** and **C**.
+> - **My hobbies ?**
+>>  - Watching anime <br>
+>>  - Reading (mangas, novels, comics...) <br>
+>>  - Video games <br>
+>>  - Playing Football <br>
+> - **My Project for now:**
+>> - **Think twice** (the worst vn you've ever seen)
+>> - i've planning to create my rpg game one day
+>> - My own opening generator
 
-  - **My hobbies**
 
 
 #
