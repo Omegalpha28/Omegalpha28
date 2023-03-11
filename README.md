@@ -8,7 +8,7 @@
   I'm novice in programming. I've begun this year with some frineds because we wanted to create our own visual novel. <br>
   Then, i've learned **python** and **ren'py** now i'm learning **Kotlin**, **Ruby** and **C**.
 
-- **My hobbies**
+  - **My hobbies**
 
 
 #
