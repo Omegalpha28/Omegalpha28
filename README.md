@@ -1,6 +1,6 @@
 ### Its me, Omegalpha28! 👋
 
-# About me💬:
+# About me 💬:
 
 > - **Who i am ?**
 >> I'm **Ossan** and i'm 17. <br>
