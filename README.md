@@ -1,4 +1,4 @@
-### Its me, Omegalpha28! 👋
+### It's me, Omegalpha28! 👋
 
 # About me 💬:
 
