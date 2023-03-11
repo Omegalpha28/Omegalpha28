@@ -1,21 +1,25 @@
 ### Its me, Omegalpha28! 👋
 
-# About me:
+# About me💬:
 
 > - **Who i am ?**
 >> I'm **Ossan** and i'm 17. <br>
   My profile picture: Seraphina, Unordinary <br>
   I'm novice in programming. I've begun this year with some frineds because we wanted to create our own visual novel. <br>
-  Then, i've learned **python** and **ren'py** now i'm learning **Kotlin**, **Ruby** and **C**.
+  Consequently i've learned **python** and **ren'py**, now i'm learning **Kotlin**, **Ruby** and **C**.
 > - **My hobbies ?**
->>  - Watching anime <br>
->>  - Reading (mangas, novels, comics...) <br>
->>  - Video games <br>
->>  - Playing Football <br>
-> - **My Project for now:**
->> - **Think twice** (the worst vn you've ever seen)
->> - i've planning to create my rpg game one day
+>>  - Watching anime or movie :tv: <br>
+>>  - Reading (mangas, novels, comics...) :book: <br>
+>>  - Video games :space_invader: <br>
+>>  - Playing Football :soccer: <br> 
+> - **I'm currently working on:**
+>> - **Think twice** (the worst vn you've ever seen) :sob:
+>> - i've planning to create my rpg game one day 🤔
 >> - My own opening generator
+> - **My Spoken Languages:**
+>> - French (my native language bro 🥖)
+>> - English (Because why not)
+
 
 
 
