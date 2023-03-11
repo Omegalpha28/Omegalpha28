@@ -2,7 +2,7 @@
 
 # About me 💬:
 
-> - **Who i am ?**
+> - **Who am I ?**
 >> I'm **Ossan** and i'm 17. <br>
   My profile picture: Seraphina, Unordinary <br>
   I'm novice in programming. I've begun this year with some frineds because we wanted to create our own visual novel. <br>
