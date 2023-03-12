@@ -20,7 +20,7 @@
 >> - French (my native language bro 🥖)
 >> - English (Because why not)
 
-# About my level of programming :computer:
+# About my level of programming :computer::
 > - **Programming languages:**
 >> - **Python**
 >> - **Kotlin**
