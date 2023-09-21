@@ -27,15 +27,6 @@
 >> - **Ruby**
 >> - **C**
 >> - **Ren'py**
-> - **OS:**
->> - **Windows**
-> - **Programming Software or Text Editor used:**
->> - **Visual studio code**
->> - **Pycharm**
->> - **CodeBlocks**
->> - **Vim**
->> - **Notepad++**
->> - **Android studio**
 
 <!--
 **Omegalpha28/Omegalpha28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
