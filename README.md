@@ -3,10 +3,8 @@
 # About me 💬:
 
 > - **Who am I ?**
->> I'm **Ossan** and i'm 17. <br>
+>> I'm **Ossan** and i'm 18. <br>
   My profile picture: Seraphina, Unordinary <br>
-  I'm novice in programming. I've begun this year with some frineds because we wanted to create our own visual novel. <br>
-  Consequently i've learned **python** and **ren'py**, now i'm learning **Kotlin**, **Ruby** and **C**.
 > - **My hobbies ?**
 >>  - Watching anime or movie :tv: <br>
 >>  - Reading (mangas, novels, comics...) :book: <br>
@@ -16,9 +14,6 @@
 >> - **Think twice** (the worst vn you've ever seen) :sob:
 >> - i've planning to create my rpg game one day 🤔
 >> - My own opening generator
-> - **My Spoken Languages:**
->> - French (my native language bro 🥖)
->> - English (Because why not)
 
 # About my level of programming :computer::
 > - **Programming languages:**
