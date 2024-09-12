@@ -24,9 +24,9 @@
     <img alt="Link to send me an email" src="https://img.shields.io/badge/mail-ossanmsoili@yahoo.com-082DEA" height="30px" >
 </a>
 
-<h2>Some Languages and Frameworks I used in ⚒️</h2>
+<h2>Programming Languages, Tools and Frameworks⚒️</h2>
 <div>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,kotlin,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,kotlin,bash,vue" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,mysql,unity" />
 </div>
 
