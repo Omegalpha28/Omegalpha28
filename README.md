@@ -1,6 +1,6 @@
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Zain&weight=900&size=30&letterSpacing=-3+px&duration=4000&pause=2000&color=F75E2E&center=true&vCenter=true&width=500&lines=Hello+Everyone%F0%9F%91%8B;My+name+is+Ossan+MSOILI!;You+can+find+some+information+about+me+here!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Zain&weight=900&size=40&letterSpacing=-3+px&duration=4000&pause=2000&color=F75E2E&center=true&vCenter=true&width=700&lines=Hello+Everyone%F0%9F%91%8B;My+name+is+Ossan+MSOILI!;You+can+find+some+information+about+me+here!" />
 </h2>
 
 <h2>Repository info ℹ️</h2>
