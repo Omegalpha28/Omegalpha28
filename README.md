@@ -32,7 +32,7 @@
 
 <h2>About me 💬</h2>
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Zain&weight=900&size=30&letterSpacing=-3+px&duration=4000&pause=1000&color=C13FD4&vCenter=true&width=500&lines=My+profile+picture+is...;Seraphina+from+Unordinary" /> <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Zain&weight=900&size=30&letterSpacing=-3+px&duration=4000&pause=1000&color=C13FD4&vCenter=true&width=500&lines=My+profile+picture+is...;Junko+(Touhou)" /> <br>
 <div align=center>
   <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Omegalpha28&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> <br>
   <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Omegalpha28&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <br>
