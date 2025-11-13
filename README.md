@@ -6,7 +6,6 @@
 <h2>Repository info ℹ️</h2>
 <div>
 <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Omegalpha28.Omegalpha28" height="30px">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Omegalpha28/Omegalpha28?color=082DEA&logo=github&style=for-the-badge&logoColor=181717" height="30px">
 <img alt="Last commit" src="https://img.shields.io/github/last-commit/Omegalpha28/Omegalpha28?color=082DEA&logo=git&logoColor&style=for-the-badge" height="30px">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Omegalpha28/Omegalpha28?color=082DEA&logo=github&style=for-the-badge&logoColor=181717" height="30px">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Omegalpha28/Omegalpha28?color=082DEA&logo=github&style=for-the-badge&logoColor=181717" height="30px">
